@@ -20,10 +20,11 @@ A responsive web application that allows users to browse and search through a co
 - Font Awesome
 
 ## Demo Video
- <video width="640" height="360" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+ 
+
+https://github.com/user-attachments/assets/27ec695f-005d-47d7-9927-be77e9058e77
+
+
 
 ## Setup
 
